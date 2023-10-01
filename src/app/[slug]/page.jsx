@@ -34,7 +34,7 @@ export const SinglePage = () => {
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos quam nulla, tenetur laboriosam quaerat consectetur asperiores, explicabo culpa nihil magnam error id voluptatum reprehenderit soluta illo facilis saepe a? Quibusdam!</p>
           </div>
           <div className={styles.comment}>
-            <Comments postSlug={slug} />
+            <Comments/>
           </div>
         </div>
         <Menu />
